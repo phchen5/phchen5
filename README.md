@@ -4,27 +4,26 @@ Welcome to my GitHub world! I'm Ben, currently a data science graduate student w
 
 ## 🚀 Quick Facts
 
-- 👨‍🏫 I used to work as a teaching/research assistant at a university.
-- 🔭 I’m currently working on a generative AI project with GANs.
-- 💻 I've published several notebooks on kaggle.
-- 🌱 I’m learning deployment on the Cloud ☁️.
-- 👯 I’m looking to collaborate on anything fun and innovative.
+- 👨‍🏫 Former university teaching and research assistant, specializing in statistics and data science education.
+- 🔭 Currently exploring generative AI and working with GANs
+- 🌱 Expanding my knowledge in cloud deployment and scalable solutions.
+- 👯 Always excited to collaborate on fun and meaningful projects!
 
 ## 🛠️ Tech Stack
 
-- Languages: Python
-- Frameworks: Scikit-learn, PyTorch, Seaborn, PyXplor, etc.
+- Main Languages: Python, R
+- Frameworks: PyTorch, scikit-learn, Altair, Streamlit, PyXplor, Seaborn, Matplotlib
 
 ## 🌈 Fun Facts
 
-- I love running, meditating and cold showers 🥶.
-- I only started seriously learning data science in Year 4 of my undergraduate study.
-- I enjoy both traveling and creating YouTube videos to share my experiences.
+- 🏃‍♂️ Marathon enthusiast who loves running, meditating, and embracing the challenge of cold showers.
+- 🌍 Passionate traveler and content creator, sharing my experiences through YouTube and blogs.
+- 🧠 Started my deep dive into data science during the final year of my undergrad and haven’t looked back since!
 
 ## 📫 Let's Connect
 
 - LinkedIn: [www.linkedin.com/in/phchen5]
-- Blog & Website: [www.benchenblog.com]
+- Blog & Website: [https://benchenblog.notion.site/Hello-Welcome-to-my-blog-84a15f6086f84926b31ea7aa3f4b8530]
 - Email: benjamin990126@hotmail.com
 
 Feel free to explore my repositories and let's build something awesome together! ✨
