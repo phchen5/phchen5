@@ -4,7 +4,7 @@ Welcome to my GitHub world! I'm Ben, currently a data science graduate student w
 
 ## 🚀 Quick Facts
 
-- 👨‍🏫 Former university teaching and research assistant, specializing in statistics and data science education.
+- 👨‍🏫 Former university teaching and research assistant, specialized in statistics and data science education.
 - 🔭 Currently exploring generative AI and working with GANs
 - 🌱 Expanding my knowledge in cloud deployment and scalable solutions.
 - 👯 Always excited to collaborate on fun and meaningful projects!
@@ -12,7 +12,7 @@ Welcome to my GitHub world! I'm Ben, currently a data science graduate student w
 ## 🛠️ Tech Stack
 
 - Main Languages: Python, R
-- Frameworks: PyTorch, scikit-learn, Altair, Streamlit, PyXplor, Seaborn, Matplotlib
+- Frameworks: PyTorch, scikit-learn, Altair, Streamlit, PyXplor, Seaborn, Matplotlib, etc.
 
 ## 🌈 Fun Facts
 
