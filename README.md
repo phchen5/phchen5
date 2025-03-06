@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-Welcome to my GitHub world! I'm Ben, currently a data science graduate student who is passionate about data science, machine learning, and creating cool stuff.
+Welcome to my GitHub world!
 
 ## 🚀 Quick Facts
 
-- 👨‍🏫 Former university teaching and research assistant, specialized in statistics and data science education.
+- 👨‍🏫 Former university instructor/researcher, specialized in statistics and data science education.
 - 🔭 Currently exploring generative AI and working with GANs
 - 🌱 Expanding my knowledge in cloud deployment and scalable solutions.
 - 👯 Always excited to collaborate on fun and meaningful projects!
